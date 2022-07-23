@@ -1,7 +1,6 @@
 PREFIX owl: <http://www.w3.org/2002/07/owl#>
 PREFIX rdfs: <http://www.w3.org/2000/01/rdf-schema#>
 PREFIX skos: <http://www.w3.org/2004/02/skos/core#>
-PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
 
 <urn:mdciii:1603:16:642()>
     a skos:Collection ;
@@ -20,7 +19,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:642:1:1" ;
     skos:prefLabel "Nord-Est"@ron-Latn ;
-    wdata:q7200235 "RO001" ;
 .
 
 <urn:mdciii:1603:16()>
@@ -47,7 +45,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:642:1:2" ;
     skos:prefLabel "Sud-Est"@ron-Latn ;
-    wdata:q7200235 "RO002" ;
 .
 
 <urn:mdciii:1603:16:642:1:3>
@@ -56,7 +53,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:642:1:3" ;
     skos:prefLabel "Sud"@ron-Latn ;
-    wdata:q7200235 "RO003" ;
 .
 
 <urn:mdciii:1603:16:642:1:4>
@@ -65,7 +61,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:642:1:4" ;
     skos:prefLabel "Sud-Vest"@ron-Latn ;
-    wdata:q7200235 "RO004" ;
 .
 
 <urn:mdciii:1603:16:642:1:5>
@@ -74,7 +69,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:642:1:5" ;
     skos:prefLabel "Vest"@ron-Latn ;
-    wdata:q7200235 "RO005" ;
 .
 
 <urn:mdciii:1603:16:642:1:6>
@@ -83,7 +77,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:642:1:6" ;
     skos:prefLabel "Nord-Vest"@ron-Latn ;
-    wdata:q7200235 "RO006" ;
 .
 
 <urn:mdciii:1603:16:642:1:7>
@@ -92,7 +85,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:642:1:7" ;
     skos:prefLabel "Centru"@ron-Latn ;
-    wdata:q7200235 "RO007" ;
 .
 
 <urn:mdciii:1603:16:642:1:8>
@@ -101,6 +93,5 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:642:1:8" ;
     skos:prefLabel "București-Ilfov"@ron-Latn ;
-    wdata:q7200235 "RO008" ;
 .
 

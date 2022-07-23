@@ -1,7 +1,6 @@
 PREFIX owl: <http://www.w3.org/2002/07/owl#>
 PREFIX rdfs: <http://www.w3.org/2000/01/rdf-schema#>
 PREFIX skos: <http://www.w3.org/2004/02/skos/core#>
-PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
 
 <urn:mdciii:1603:16:642()>
     a skos:Collection ;
@@ -20,7 +19,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:642:2:1047" ;
     skos:prefLabel "Bacău"@ron-Latn ;
-    wdata:q7200235 "RO001047" ;
 .
 
 <urn:mdciii:1603:16()>
@@ -81,7 +79,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:642:2:1074" ;
     skos:prefLabel "Botoșani"@ron-Latn ;
-    wdata:q7200235 "RO001074" ;
 .
 
 <urn:mdciii:1603:16:642:2:1225>
@@ -90,7 +87,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:642:2:1225" ;
     skos:prefLabel "Iași"@ron-Latn ;
-    wdata:q7200235 "RO001225" ;
 .
 
 <urn:mdciii:1603:16:642:2:1270>
@@ -99,7 +95,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:642:2:1270" ;
     skos:prefLabel "Neamț"@ron-Latn ;
-    wdata:q7200235 "RO001270" ;
 .
 
 <urn:mdciii:1603:16:642:2:1332>
@@ -108,7 +103,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:642:2:1332" ;
     skos:prefLabel "Suceava"@ron-Latn ;
-    wdata:q7200235 "RO001332" ;
 .
 
 <urn:mdciii:1603:16:642:2:1378>
@@ -117,7 +111,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:642:2:1378" ;
     skos:prefLabel "Vaslui"@ron-Latn ;
-    wdata:q7200235 "RO001378" ;
 .
 
 <urn:mdciii:1603:16:642:2:2092>
@@ -126,7 +119,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:642:2:2092" ;
     skos:prefLabel "Brăila"@ron-Latn ;
-    wdata:q7200235 "RO002092" ;
 .
 
 <urn:mdciii:1603:16:642:2:2109>
@@ -135,7 +127,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:642:2:2109" ;
     skos:prefLabel "Buzău"@ron-Latn ;
-    wdata:q7200235 "RO002109" ;
 .
 
 <urn:mdciii:1603:16:642:2:2136>
@@ -144,7 +135,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:642:2:2136" ;
     skos:prefLabel "Constanța"@ron-Latn ;
-    wdata:q7200235 "RO002136" ;
 .
 
 <urn:mdciii:1603:16:642:2:2172>
@@ -153,7 +143,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:642:2:2172" ;
     skos:prefLabel "Galați"@ron-Latn ;
-    wdata:q7200235 "RO002172" ;
 .
 
 <urn:mdciii:1603:16:642:2:2369>
@@ -162,7 +151,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:642:2:2369" ;
     skos:prefLabel "Tulcea"@ron-Latn ;
-    wdata:q7200235 "RO002369" ;
 .
 
 <urn:mdciii:1603:16:642:2:2396>
@@ -171,7 +159,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:642:2:2396" ;
     skos:prefLabel "Vrancea"@ron-Latn ;
-    wdata:q7200235 "RO002396" ;
 .
 
 <urn:mdciii:1603:16:642:2:3038>
@@ -180,7 +167,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:642:2:3038" ;
     skos:prefLabel "Argeș"@ron-Latn ;
-    wdata:q7200235 "RO003038" ;
 .
 
 <urn:mdciii:1603:16:642:2:3154>
@@ -189,7 +175,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:642:2:3154" ;
     skos:prefLabel "Dâmbovița"@ron-Latn ;
-    wdata:q7200235 "RO003154" ;
 .
 
 <urn:mdciii:1603:16:642:2:3216>
@@ -198,7 +183,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:642:2:3216" ;
     skos:prefLabel "Ialomița"@ron-Latn ;
-    wdata:q7200235 "RO003216" ;
 .
 
 <urn:mdciii:1603:16:642:2:3298>
@@ -207,7 +191,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:642:2:3298" ;
     skos:prefLabel "Prahova"@ron-Latn ;
-    wdata:q7200235 "RO003298" ;
 .
 
 <urn:mdciii:1603:16:642:2:3341>
@@ -216,7 +199,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:642:2:3341" ;
     skos:prefLabel "Teleorman"@ron-Latn ;
-    wdata:q7200235 "RO003341" ;
 .
 
 <urn:mdciii:1603:16:642:2:3519>
@@ -225,7 +207,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:642:2:3519" ;
     skos:prefLabel "Călărași"@ron-Latn ;
-    wdata:q7200235 "RO003519" ;
 .
 
 <urn:mdciii:1603:16:642:2:3528>
@@ -234,7 +215,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:642:2:3528" ;
     skos:prefLabel "Giurgiu"@ron-Latn ;
-    wdata:q7200235 "RO003528" ;
 .
 
 <urn:mdciii:1603:16:642:2:4163>
@@ -243,7 +223,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:642:2:4163" ;
     skos:prefLabel "Dolj"@ron-Latn ;
-    wdata:q7200235 "RO004163" ;
 .
 
 <urn:mdciii:1603:16:642:2:4181>
@@ -252,7 +231,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:642:2:4181" ;
     skos:prefLabel "Gorj"@ron-Latn ;
-    wdata:q7200235 "RO004181" ;
 .
 
 <urn:mdciii:1603:16:642:2:4252>
@@ -261,7 +239,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:642:2:4252" ;
     skos:prefLabel "Mehedinți"@ron-Latn ;
-    wdata:q7200235 "RO004252" ;
 .
 
 <urn:mdciii:1603:16:642:2:4289>
@@ -270,7 +247,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:642:2:4289" ;
     skos:prefLabel "Olt"@ron-Latn ;
-    wdata:q7200235 "RO004289" ;
 .
 
 <urn:mdciii:1603:16:642:2:4387>
@@ -279,7 +255,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:642:2:4387" ;
     skos:prefLabel "Vâlcea"@ron-Latn ;
-    wdata:q7200235 "RO004387" ;
 .
 
 <urn:mdciii:1603:16:642:2:5029>
@@ -288,7 +263,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:642:2:5029" ;
     skos:prefLabel "Arad"@ron-Latn ;
-    wdata:q7200235 "RO005029" ;
 .
 
 <urn:mdciii:1603:16:642:2:5118>
@@ -297,7 +271,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:642:2:5118" ;
     skos:prefLabel "Caraș-Severin"@ron-Latn ;
-    wdata:q7200235 "RO005118" ;
 .
 
 <urn:mdciii:1603:16:642:2:5207>
@@ -306,7 +279,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:642:2:5207" ;
     skos:prefLabel "Hunedoara"@ron-Latn ;
-    wdata:q7200235 "RO005207" ;
 .
 
 <urn:mdciii:1603:16:642:2:5350>
@@ -315,7 +287,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:642:2:5350" ;
     skos:prefLabel "Timiș"@ron-Latn ;
-    wdata:q7200235 "RO005350" ;
 .
 
 <urn:mdciii:1603:16:642:2:6056>
@@ -324,7 +295,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:642:2:6056" ;
     skos:prefLabel "Bihor"@ron-Latn ;
-    wdata:q7200235 "RO006056" ;
 .
 
 <urn:mdciii:1603:16:642:2:6065>
@@ -333,7 +303,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:642:2:6065" ;
     skos:prefLabel "Bistrița-Năsăud"@ron-Latn ;
-    wdata:q7200235 "RO006065" ;
 .
 
 <urn:mdciii:1603:16:642:2:6127>
@@ -342,7 +311,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:642:2:6127" ;
     skos:prefLabel "Cluj"@ron-Latn ;
-    wdata:q7200235 "RO006127" ;
 .
 
 <urn:mdciii:1603:16:642:2:6243>
@@ -351,7 +319,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:642:2:6243" ;
     skos:prefLabel "Maramureș"@ron-Latn ;
-    wdata:q7200235 "RO006243" ;
 .
 
 <urn:mdciii:1603:16:642:2:6305>
@@ -360,7 +327,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:642:2:6305" ;
     skos:prefLabel "Satu Mare"@ron-Latn ;
-    wdata:q7200235 "RO006305" ;
 .
 
 <urn:mdciii:1603:16:642:2:6314>
@@ -369,7 +335,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:642:2:6314" ;
     skos:prefLabel "Sălaj"@ron-Latn ;
-    wdata:q7200235 "RO006314" ;
 .
 
 <urn:mdciii:1603:16:642:2:7010>
@@ -378,7 +343,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:642:2:7010" ;
     skos:prefLabel "Alba"@ron-Latn ;
-    wdata:q7200235 "RO007010" ;
 .
 
 <urn:mdciii:1603:16:642:2:7083>
@@ -387,7 +351,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:642:2:7083" ;
     skos:prefLabel "Brașov"@ron-Latn ;
-    wdata:q7200235 "RO007083" ;
 .
 
 <urn:mdciii:1603:16:642:2:7145>
@@ -396,7 +359,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:642:2:7145" ;
     skos:prefLabel "Covasna"@ron-Latn ;
-    wdata:q7200235 "RO007145" ;
 .
 
 <urn:mdciii:1603:16:642:2:7190>
@@ -405,7 +367,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:642:2:7190" ;
     skos:prefLabel "Harghita"@ron-Latn ;
-    wdata:q7200235 "RO007190" ;
 .
 
 <urn:mdciii:1603:16:642:2:7261>
@@ -414,7 +375,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:642:2:7261" ;
     skos:prefLabel "Mureș"@ron-Latn ;
-    wdata:q7200235 "RO007261" ;
 .
 
 <urn:mdciii:1603:16:642:2:7323>
@@ -423,7 +383,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:642:2:7323" ;
     skos:prefLabel "Sibiu"@ron-Latn ;
-    wdata:q7200235 "RO007323" ;
 .
 
 <urn:mdciii:1603:16:642:2:8234>
@@ -432,7 +391,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:642:2:8234" ;
     skos:prefLabel "Ilfov"@ron-Latn ;
-    wdata:q7200235 "RO008234" ;
 .
 
 <urn:mdciii:1603:16:642:2:8403>
@@ -441,6 +399,5 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:642:2:8403" ;
     skos:prefLabel "București"@ron-Latn ;
-    wdata:q7200235 "RO008403" ;
 .
 

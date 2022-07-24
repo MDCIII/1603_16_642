@@ -23,7 +23,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     rdfs:label "1603:16:642:1:1" ;
     obo:BFO_0000124 <urn:mcdiii:1603:16:642:0> ;
     skos:prefLabel "Nord-Est"@ron-Latn ;
-    wdata:q7200235 "RO001" ;
+    wdata:Q7200235 "RO001" ;
 .
 
 <urn:mdciii:1603:16()>
@@ -52,7 +52,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     rdfs:label "1603:16:642:1:2" ;
     obo:BFO_0000124 <urn:mcdiii:1603:16:642:0> ;
     skos:prefLabel "Sud-Est"@ron-Latn ;
-    wdata:q7200235 "RO002" ;
+    wdata:Q7200235 "RO002" ;
 .
 
 <urn:mdciii:1603:16:642:1:3>
@@ -63,7 +63,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     rdfs:label "1603:16:642:1:3" ;
     obo:BFO_0000124 <urn:mcdiii:1603:16:642:0> ;
     skos:prefLabel "Sud"@ron-Latn ;
-    wdata:q7200235 "RO003" ;
+    wdata:Q7200235 "RO003" ;
 .
 
 <urn:mdciii:1603:16:642:1:4>
@@ -74,7 +74,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     rdfs:label "1603:16:642:1:4" ;
     obo:BFO_0000124 <urn:mcdiii:1603:16:642:0> ;
     skos:prefLabel "Sud-Vest"@ron-Latn ;
-    wdata:q7200235 "RO004" ;
+    wdata:Q7200235 "RO004" ;
 .
 
 <urn:mdciii:1603:16:642:1:5>
@@ -85,7 +85,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     rdfs:label "1603:16:642:1:5" ;
     obo:BFO_0000124 <urn:mcdiii:1603:16:642:0> ;
     skos:prefLabel "Vest"@ron-Latn ;
-    wdata:q7200235 "RO005" ;
+    wdata:Q7200235 "RO005" ;
 .
 
 <urn:mdciii:1603:16:642:1:6>
@@ -96,7 +96,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     rdfs:label "1603:16:642:1:6" ;
     obo:BFO_0000124 <urn:mcdiii:1603:16:642:0> ;
     skos:prefLabel "Nord-Vest"@ron-Latn ;
-    wdata:q7200235 "RO006" ;
+    wdata:Q7200235 "RO006" ;
 .
 
 <urn:mdciii:1603:16:642:1:7>
@@ -107,7 +107,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     rdfs:label "1603:16:642:1:7" ;
     obo:BFO_0000124 <urn:mcdiii:1603:16:642:0> ;
     skos:prefLabel "Centru"@ron-Latn ;
-    wdata:q7200235 "RO007" ;
+    wdata:Q7200235 "RO007" ;
 .
 
 <urn:mdciii:1603:16:642:1:8>
@@ -118,6 +118,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     rdfs:label "1603:16:642:1:8" ;
     obo:BFO_0000124 <urn:mcdiii:1603:16:642:0> ;
     skos:prefLabel "București-Ilfov"@ron-Latn ;
-    wdata:q7200235 "RO008" ;
+    wdata:Q7200235 "RO008" ;
 .
 
